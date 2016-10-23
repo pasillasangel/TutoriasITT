@@ -4,3 +4,27 @@ Pagina Web del Sistema Tutorias ITT
 Web Prueba: http://tutoriasitt123.hol.es/
 
 Web Final:
+
+## Diseñada mayormente en MDL
+
+* https://getmdl.io/
+
+
+## Imagenes obtenidas de
+
+* https://unsplash.com/
+* https://www.pexels.com/
+* http://alpha.wallhaven.cc/
+* http://search.creativecommons.org/
+
+
+## Basada en los diseños de BootStrap
+
+* 1.- Business-header: - [Página](https://startbootstrap.com/template-overviews/business-frontpage/) - [Código](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/tree/master/css)
+
+* 2.- Callout: - [Página](https://startbootstrap.com/template-overviews/stylish-portfolio/) - [Codigo](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/tree/master/css)
+
+* 3.- Banner: - [Página](https://startbootstrap.com/template-overviews/landing-page/) - [Codigo](https://github.com/BlackrockDigital/startbootstrap-landing-page)
+
+* 4.- Team  - [Página](https://blackrockdigital.github.io/startbootstrap-agency/) - [Codigo](https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/index.html)
+
