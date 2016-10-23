@@ -22,9 +22,9 @@ Web Final:
 
 * 1.- Business-header: - [Página](https://startbootstrap.com/template-overviews/business-frontpage/) - [Código](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/tree/master/css)
 
-* 2.- Callout: - [Página](https://startbootstrap.com/template-overviews/stylish-portfolio/) - [Codigo](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/tree/master/css)
+* 2.- Callout: - [Página](https://startbootstrap.com/template-overviews/stylish-portfolio/) - [Código](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/tree/master/css)
 
-* 3.- Banner: - [Página](https://startbootstrap.com/template-overviews/landing-page/) - [Codigo](https://github.com/BlackrockDigital/startbootstrap-landing-page)
+* 3.- Banner: - [Página](https://startbootstrap.com/template-overviews/landing-page/) - [Código](https://github.com/BlackrockDigital/startbootstrap-landing-page)
 
-* 4.- Team  - [Página](https://blackrockdigital.github.io/startbootstrap-agency/) - [Codigo](https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/index.html)
+* 4.- Team  - [Página](https://blackrockdigital.github.io/startbootstrap-agency/) - [Código](https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/index.html)
 
