@@ -16,6 +16,7 @@ Web Final:
 * https://www.pexels.com/
 * http://alpha.wallhaven.cc/
 * http://search.creativecommons.org/
+* http://www.flaticon.com/
 
 
 ## Basada en los diseños de BootStrap
